@@ -1,8 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nguyenhung66/EPG-Tong/main/epg.xml"
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Lý Thuyết P1
+#EXTINF:-1 tvg-id="66edu" tvg-name"66 Education by Nguyễn Hưng" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Lý Thuyết P1
 https://res.cloudinary.com/koezvovk/video/upload/v1785306364/LiveC-B1-P1_k2fv0t.mp4
 
 #EXTINF:-1 tvg-name="Lý Thuyết P2" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Lý Thuyết P2
