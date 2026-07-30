@@ -1,1 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
 
+  <channel id="66edu">
+    <display-name>66 Education</display-name>
+  </channel>
+
+  <programme start="20260730190000 +0700"
+             stop="20260730230000 +0700"
+             channel="66edu">
+    <title lang="vi">66 Education by Nguyễn Hưng</title>
+    <desc lang="vi">🎓 66 Education by Nguyễn Hưng
+
+📖 Chuyên đề: Chữa đề P1
+📂 Tài liệu: IB Nguyễn Hưng để nhận file đề.
+⏰ Thời lượng: 37 phút
+✨ Chúc các em học tốt!</desc>
+  </programme>
+
+</tv>
