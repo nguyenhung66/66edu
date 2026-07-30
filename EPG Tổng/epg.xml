@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv>
+<tv generator-info-name="66 Education">
 
   <channel id="66edu">
-    <display-name>66 Education</display-name>
+    <display-name lang="vi">66 Education</display-name>
   </channel>
 
-  <programme start="20260730190000 +0700"
-             stop="20260730230000 +0700"
-             channel="66edu">
-    <title lang="vi">66 Education by Nguyễn Hưng</title>
-    <desc lang="vi">🎓 66 Education by Nguyễn Hưng
+  <programme
+      start="20260730190000 +0700"
+      stop="20260730230000 +0700"
+      channel="66edu">
 
-📖 Chuyên đề: Chữa đề P1
-📂 Tài liệu: IB Nguyễn Hưng để nhận file đề.
+    <title lang="vi">🎓 66 Education by Nguyễn Hưng</title>
+
+    <desc lang="vi"><![CDATA[
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 66 EDUCATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Chuyên đề: Chữa đề P1
+🎯 Ôn tập trọng tâm – Bám sát cấu trúc thi
+
+📂 IB Nguyễn Hưng để nhận:
+• File đề
+• Đáp án chi tiết
+• Tài liệu ôn tập sau mỗi bài học
+
 ⏰ Thời lượng: 37 phút
-✨ Chúc các em học tốt!</desc>
+
+✨ Chúc các em học tốt!
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+]]></desc>
+
+    <category lang="vi">Giáo dục</category>
+
   </programme>
 
 </tv>
