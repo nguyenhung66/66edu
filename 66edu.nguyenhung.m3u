@@ -1,19 +1,19 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nguyenhung66/66edu/main/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="66edu" tvg-name"66 Education by Nguyễn Hưng" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Lý Thuyết P1
-https://res.cloudinary.com/koezvovk/video/upload/v1785306364/LiveC-B1-P1_k2fv0t.mp4
+https://raw.githubusercontent.com/nguyenhung66/66edu/142eeddfb3e622c4cf5f79c5144f48d35a5bc86e/Video/BaoTriHeThong.mp4
 
 #EXTINF:-1 tvg-name="Lý Thuyết P2" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Lý Thuyết P2
-https://res.cloudinary.com/koezvovk/video/upload/v1785333253/Bai1_webP2_-_p2_wpv2cg.mp4
+https://raw.githubusercontent.com/nguyenhung66/66edu/142eeddfb3e622c4cf5f79c5144f48d35a5bc86e/Video/BaoTriHeThong.mp4
 
 #EXTINF:-1 tvg-name="Lý Thuyết P3" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Lý Thuyết P3
-https://dl.dropboxusercontent.com/scl/fi/u1nrfjzy9rtv6ywljfvb9/Bai1-webp2-P3.mp4?rlkey=598es1nsjq23lz3h6pcczcdci
+https://raw.githubusercontent.com/nguyenhung66/66edu/142eeddfb3e622c4cf5f79c5144f48d35a5bc86e/Video/BaoTriHeThong.mp4
 
 #EXTINF:-1 tvg-name="Chữa đề P1 - ib Nguyễn Hưng lấy đề" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Chữa đề P1 - ib Nguyễn Hưng lấy đề
-https://dl.dropboxusercontent.com/scl/fi/b6g5vf43v253c40jk3bpw/B-i-1-Ch-a-P1.mp4?rlkey=exzcokefrf80rvq1l0l6dleyx
+https://raw.githubusercontent.com/nguyenhung66/66edu/142eeddfb3e622c4cf5f79c5144f48d35a5bc86e/Video/BaoTriHeThong.mp4
 
 #EXTINF:-1 tvg-name="Chữa đề P2 - ib Nguyễn Hưng lấy đề" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66edu/c47bfc334226bb94aabf4eb0cf6a69b38f1897e9/Logo%20B%C3%A0i%20Gi%E1%BA%A3ng/Logo%20B%C3%A0i%201.jpg" group-title="📚Bài 1 - Liên Hợp Quốc",Chữa đề P2 - ib Nguyễn Hưng lấy đề
-https://res.cloudinary.com/koezvovk/video/upload/v1785393024/B%C3%A0i_1_Ch%E1%BB%AFa_%C4%90%E1%BB%81_-_P2_nb4jkc.mp4
+https://raw.githubusercontent.com/nguyenhung66/66edu/142eeddfb3e622c4cf5f79c5144f48d35a5bc86e/Video/BaoTriHeThong.mp4
 
 
 
